@@ -1,5 +1,5 @@
-#sudo: required
-
+# Gives 7.5 GB RAM instead of "max 4 GB"
+sudo: required
 
 language: java
 
