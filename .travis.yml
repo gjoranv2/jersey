@@ -9,7 +9,7 @@ jdk:
 #services:
 #  - docker
 
-#script: "docker/vespa-ci.sh"
+script: "./gv-build.sh"
 
 # skip install step and rely on script command instead
-#install: true
+install: true
