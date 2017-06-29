@@ -10,5 +10,5 @@ fi
 df -h
 df -h .
 
-mvn clean install -DskipTests -Dmaven.javadoc.skip
+mvn clean install -Dmaven.javadoc.skip
 
